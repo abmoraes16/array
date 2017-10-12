@@ -1,0 +1,5 @@
+Nome
+Idade
+Genero
+Endereco
+Telefone
